@@ -30,11 +30,11 @@ weekly review sessions, and aid in the creation of course content. Review sessio
 entirely PLA-lead and cover material that the PLAs believe students are struggling with or 
 would benefit from additional reinforcement. 
    
-* PLAs may not grade. Exceptions may be made by the course instructor only when the grading
-  is sufficiently low stakes (e.g., an attendance grade) and under the direct supervision 
-  of the course instructor or an instructor-appointed graduate teaching assistant. Instructors
-  are encouraged to contact the CSUA Program Director if they have any questions regarding 
-  this requirement.
+* Under most circumstances, PLAs may not grade. Exceptions may be made by the course instructor
+  only when the grading is sufficiently low stakes (e.g., an attendance grade) and under the 
+  direct supervision of the course instructor or an instructor-appointed graduate teaching 
+  assistant. Instructors are encouraged to contact the CSUA Program Director if they have any 
+  questions regarding this requirement.
    
 ### Undergraduate Teaching Assistant (UTA)
 
