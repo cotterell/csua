@@ -30,7 +30,7 @@ weekly review sessions, and aid in the creation of course content. Review sessio
 entirely PLA-lead and cover material that the PLAs believe students are struggling with or 
 would benefit from additional reinforcement. 
    
-* Under most circumstances, PLAs may not grade. Exceptions may be made by the course instructor
+* **Under most circumstances, PLAs may not grade.** Exceptions may be made by the course instructor
   only when the grading is sufficiently low stakes (e.g., an attendance grade) and under the 
   direct supervision of the course instructor or an instructor-appointed graduate teaching 
   assistant. Instructors are encouraged to contact the CSUA Program Director if they have any 
@@ -45,8 +45,8 @@ In particular, UTAs will regularly be challenged to reinforce their knowledge ab
 material and ancillary concepts by grading assignments and helping create and test automated 
 evaluation tools for assignments. 
    
-* UTAs may grade anonymized assignments and/or under the direct supervision of the course
-  instructor or an instructor-appointed graduate teaching assistant. Exceptions may be made
+* **UTAs may grade anonymized assignments and/or under the direct supervision of the course
+  instructor or an instructor-appointed graduate teaching assistant.** Exceptions may be made
   by the course instructor only when the grading is at least 90% mechanical in nature (e.g.,
   when an autograder script is utilized). Instructors are encouraged to contact the CSUA
   Program Director if they have any questions regarding this requirement.
