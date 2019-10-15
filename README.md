@@ -1,5 +1,8 @@
 # CS Undergraduate Assistant Program Handbook
 
+## Table of Contents
+
+* [Introduction](#introduction)
 
 ## Introduction 
 
