@@ -5,6 +5,8 @@ Written by Michael E. Cotterell (mepcott@uga.edu), Program Director, CSUA
 ## Table of Contents
 
 * [Introduction](#introduction)
+  * [Tracks](#tracks)
+  * [Additional Information](#additional-information)
 * [Links](#links)
 
 ## Introduction 
@@ -14,6 +16,8 @@ of undergraduates who have completed the course in which they serve and wish to 
 knowledge and abilities with their peers. Participants provide valuable knowledge, insight, 
 and learning strategies for both the students and the instructional team they work with, 
 while also furthering their own mastery of related material. 
+
+### Tracks
 
 The CSUA program has two tracks:
 
@@ -40,7 +44,9 @@ The CSUA program has two tracks:
      by the course instructor only when the grading is at least 90% mechanical in nature (e.g.,
      when an autograder script is utilized). Instructors are encouraged to contact the CSUA
      Program Director if they have any questions regarding this requirement.
-   
+
+### Additional Information
+
 All participants must have taken the course they're assigned to at the University of Georgia and
 received a satisfactory grade. As such, they will gain an invaluable alternative and applied 
 perspective into the course to which they’re assigned. Compared to GTAs, undergraduate assistants
