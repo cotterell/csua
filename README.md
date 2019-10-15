@@ -5,7 +5,7 @@ Written by Michael E. Cotterell (mepcott@uga.edu), Program Director, CSUA
 ## Table of Contents
 
 * [Introduction](#introduction)
-  * [Tracks](#tracks)
+  * [Program Tracks](#program-tracks)
   * [Additional Information](#additional-information)
 * [Links](#links)
 
@@ -17,7 +17,7 @@ knowledge and abilities with their peers. Participants provide valuable knowledg
 and learning strategies for both the students and the instructional team they work with, 
 while also furthering their own mastery of related material. 
 
-### Tracks
+### Program Tracks
 
 The CSUA program has two tracks:
 
