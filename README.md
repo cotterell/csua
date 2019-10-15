@@ -13,7 +13,7 @@ The CSUA program has two tracks:
    exercises and answering student questions. Additionally, participants will hold office hours, 
    weekly review sessions, and aid in the creation of course content. Review sessions will be 
    entirely PLA-lead and cover material that the PLAs believe students are struggling with or 
-   would benefit from additional reinforcement.
+   would benefit from additional reinforcement. PLAs may not grade.
    
 1. **Undergraduate Teaching Assistant (UTA):** UTA participants work directly with the 
    instructional team, including Graduate Teaching Assistants (GTAs), to help with traditional 
@@ -24,10 +24,10 @@ The CSUA program has two tracks:
    
 All participants must have taken the course they're assigned to at the University of Georgia and
 received a satisfactory grade. As such, they will gain an invaluable alternative and applied 
-perspective into the course to which they’re assigned. Compared to GTAs, UTAs tend to have a 
-closer peer relationship with other undergraduate students. As such, measures will be taken to 
-directly address potential conflicts of interest, including, but not limited to, requiring the 
-same conflict of interest training that is required for all UGA employees and anonymizing assignments 
+perspective into the course to which they’re assigned. Compared to GTAs, undergraduate assistants
+tend to have a closer peer relationship with other undergraduate students. As such, measures will 
+be taken to directly address potential conflicts of interest, including, but not limited to, requiring 
+the same conflict of interest training that is required for all UGA employees and anonymizing assignments 
 so that they do not contain easily identifiable personal information. These practices have been 
 approved for the CS department’s use of UTAs in the past.
 
