@@ -23,7 +23,7 @@ The CSUA program has two tracks:
 
 ### Peer Learning Assistant (PLA)
 
-PLA Participants attend lectures and labs in participating
+PLA participants attend lectures and labs in participating
 active learning Computer Science courses to assist instructors in conducting active learning 
 exercises and answering student questions. Additionally, participants will hold office hours, 
 weekly review sessions, and aid in the creation of course content. Review sessions will be 
