@@ -30,8 +30,10 @@ The CSUA program has two tracks:
    would benefit from additional reinforcement. 
    
    * PLAs may not grade. Exceptions may be made by the course instructor only when the grading
-     is sufficiently low stakes (e.g., an attendance grade). Instructors are encouraged to contact
-     the CSUA Program Director if they have any questions regarding this requirement.
+     is sufficiently low stakes (e.g., an attendance grade) and under the direct supervision 
+     of the course instructor or an instructor-appointed graduate teaching assistant. Instructors
+     are encouraged to contact the CSUA Program Director if they have any questions regarding 
+     this requirement.
    
 1. **Undergraduate Teaching Assistant (UTA):** UTA participants work directly with the 
    instructional team, including Graduate Teaching Assistants (GTAs), to help with traditional 
