@@ -1,5 +1,7 @@
 # CS Undergraduate Assistant Program Handbook
 
+Written by Michael E. Cotterell, Program Director
+
 ## Table of Contents
 
 * [Introduction](#introduction)
