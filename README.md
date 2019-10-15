@@ -1,6 +1,6 @@
 # CS Undergraduate Assistant Program Handbook
 
-Written by Michael E. Cotterell, Program Director
+Written by Michael E. Cotterell, Program Director, CSUA
 
 ## Table of Contents
 
