@@ -1,6 +1,6 @@
 # CS Undergraduate Assistant Program Handbook
 
-Written by Michael E. Cotterell, Program Director, CSUA
+Written by Michael E. Cotterell (mepcott@uga.edu), Program Director, CSUA
 
 ## Table of Contents
 
@@ -24,7 +24,9 @@ The CSUA program has two tracks:
    entirely PLA-lead and cover material that the PLAs believe students are struggling with or 
    would benefit from additional reinforcement. 
    
-   * PLAs may not grade.
+   * PLAs may not grade. Exceptions may be made by the course instructor only when the grading
+     is sufficiently low stakes (e.g., an attendance grade). Instructors are encouraged to contact
+     the CSUA Program Director if they have any questions regarding this requirement.
    
 1. **Undergraduate Teaching Assistant (UTA):** UTA participants work directly with the 
    instructional team, including Graduate Teaching Assistants (GTAs), to help with traditional 
