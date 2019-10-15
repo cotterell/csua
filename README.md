@@ -1,5 +1,8 @@
 # CS Undergraduate Assistant Program Handbook
 
+
+## Introduction 
+
 The **Computer Science Undergraduate Assistant (CSUA)** program aims to leverage the success
 of undergraduates who have completed the course in which they serve and wish to share their 
 knowledge and abilities with their peers. Participants provide valuable knowledge, insight, 
