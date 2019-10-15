@@ -5,9 +5,8 @@ Written by Michael E. Cotterell (mepcott@uga.edu), Program Director, CSUA
 ## Table of Contents
 
 * [Introduction](#introduction)
-  * [Program Tracks](#program-tracks)
-  * [Additional Information](#additional-information)
-  
+* [Program Tracks](#program-tracks)
+* [Additional Information](#additional-information)
 * [Links](#links)
 
 ## Introduction 
@@ -18,37 +17,41 @@ knowledge and abilities with their peers. Participants provide valuable knowledg
 and learning strategies for both the students and the instructional team they work with, 
 while also furthering their own mastery of related material. 
 
-### Program Tracks
+## Program Tracks
 
 The CSUA program has two tracks:
 
-1. **Peer Learning Assistant (PLA):** PLA Participants attend lectures and labs in participating
-   active learning Computer Science courses to assist instructors in conducting active learning 
-   exercises and answering student questions. Additionally, participants will hold office hours, 
-   weekly review sessions, and aid in the creation of course content. Review sessions will be 
-   entirely PLA-lead and cover material that the PLAs believe students are struggling with or 
-   would benefit from additional reinforcement. 
-   
-   * PLAs may not grade. Exceptions may be made by the course instructor only when the grading
-     is sufficiently low stakes (e.g., an attendance grade) and under the direct supervision 
-     of the course instructor or an instructor-appointed graduate teaching assistant. Instructors
-     are encouraged to contact the CSUA Program Director if they have any questions regarding 
-     this requirement.
-   
-1. **Undergraduate Teaching Assistant (UTA):** UTA participants work directly with the 
-   instructional team, including Graduate Teaching Assistants (GTAs), to help with traditional 
-   teaching assistant activities, including assignment assessment and office hours, as needed. 
-   In particular, UTAs will regularly be challenged to reinforce their knowledge about course 
-   material and ancillary concepts by grading assignments and helping create and test automated 
-   evaluation tools for assignments. 
-   
-   * UTAs may grade anonymized assignments and/or under the direct supervision of the course
-     instructor or an instructor-appointed graduate teaching assistant. Exceptions may be made
-     by the course instructor only when the grading is at least 90% mechanical in nature (e.g.,
-     when an autograder script is utilized). Instructors are encouraged to contact the CSUA
-     Program Director if they have any questions regarding this requirement.
+### Peer Learning Assistant (PLA)
 
-### Additional Information
+PLA Participants attend lectures and labs in participating
+active learning Computer Science courses to assist instructors in conducting active learning 
+exercises and answering student questions. Additionally, participants will hold office hours, 
+weekly review sessions, and aid in the creation of course content. Review sessions will be 
+entirely PLA-lead and cover material that the PLAs believe students are struggling with or 
+would benefit from additional reinforcement. 
+   
+* PLAs may not grade. Exceptions may be made by the course instructor only when the grading
+  is sufficiently low stakes (e.g., an attendance grade) and under the direct supervision 
+  of the course instructor or an instructor-appointed graduate teaching assistant. Instructors
+  are encouraged to contact the CSUA Program Director if they have any questions regarding 
+  this requirement.
+   
+### Undergraduate Teaching Assistant (UTA)
+
+UTA participants work directly with the 
+instructional team, including Graduate Teaching Assistants (GTAs), to help with traditional 
+teaching assistant activities, including assignment assessment and office hours, as needed. 
+In particular, UTAs will regularly be challenged to reinforce their knowledge about course 
+material and ancillary concepts by grading assignments and helping create and test automated 
+evaluation tools for assignments. 
+   
+* UTAs may grade anonymized assignments and/or under the direct supervision of the course
+  instructor or an instructor-appointed graduate teaching assistant. Exceptions may be made
+  by the course instructor only when the grading is at least 90% mechanical in nature (e.g.,
+  when an autograder script is utilized). Instructors are encouraged to contact the CSUA
+  Program Director if they have any questions regarding this requirement.
+
+## Additional Information
 
 All participants must have taken the course they're assigned to at the University of Georgia and
 received a satisfactory grade. As such, they will gain an invaluable alternative and applied 
