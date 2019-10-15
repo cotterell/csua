@@ -5,7 +5,6 @@ Written by Michael E. Cotterell (mepcott@uga.edu), Program Director, CSUA
 ## Table of Contents
 
 * [Introduction](#introduction)
-
   * [Program Tracks](#program-tracks)
   * [Additional Information](#additional-information)
   
