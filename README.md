@@ -34,7 +34,10 @@ The CSUA program has two tracks:
    evaluation tools for assignments. 
    
    * UTAs may grade anonymized assignments and/or under the direct supervision of the course
-     instructor or an instructor-appointed graduate teaching assistant. 
+     instructor or an instructor-appointed graduate teaching assistant. Exceptions may be made
+     by the course instructor only when the grading is at least 90% mechanical in nature (e.g.,
+     when an autograder script is utilized). Instructors are encouraged to contact the CSUA
+     Program Director if they have any questions regarding this requirement.
    
 All participants must have taken the course they're assigned to at the University of Georgia and
 received a satisfactory grade. As such, they will gain an invaluable alternative and applied 
