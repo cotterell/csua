@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Introduction](#introduction)
+* [Links](#links)
 
 ## Introduction 
 
@@ -36,6 +37,10 @@ be taken to directly address potential conflicts of interest, including, but not
 the same conflict of interest training that is required for all UGA employees and anonymizing assignments 
 so that they do not contain easily identifiable personal information. These practices have been 
 approved for the CS department’s use of UTAs in the past.
+
+## Links
+
+* [Engage Georgia: Experiential Learning: CSUA Progeam](https://givepul.se/817zl2)
 
 <hr/>
 
