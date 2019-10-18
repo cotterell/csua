@@ -24,7 +24,7 @@ while also furthering their own mastery of related material.
 The CSUA program has two tracks for participants, 
 [Peer Learning Assistant (PLA)](#peer-learning-assistant-pla) and
 [Undergraduate Teaching Assistant (UTA)](a#undergraduate-teaching-assistant-uta).
-Regardless of track, participants are hired as undergraduate student works.
+Regardless of track, participants are hired as undergraduate student workers.
 Therefore, any rules, regulations, and policies for student workers imposed
 by the Computer Science Department, University of Georgia, and the
 University System of Georgia apply in addition to the policies described
