@@ -44,6 +44,11 @@ would benefit from additional reinforcement.
   direct supervision of the course instructor or an instructor-appointed graduate teaching 
   assistant. Instructors are encouraged to contact the CSUA Program Director if they have any 
   questions regarding this requirement.
+  
+* **Regular, documented evaluation and feedback is required.**  All participants are expected to 
+  participate in weekly meetings with their course instructor / mentor. Direct feedback should be 
+  provided on an immediate and ongoing basis. In addition, all participants will need to complete 
+  and document an [exit interview](#exit-interviews) with their instructor.  
    
 ### Undergraduate Teaching Assistant (UTA)
 
@@ -59,6 +64,11 @@ evaluation tools for assignments.
   by the course instructor only when the grading is at least 90% mechanical in nature (e.g.,
   when an autograder script is utilized). Instructors are encouraged to contact the CSUA
   Program Director if they have any questions regarding this requirement.
+  
+  * **Regular, documented evaluation and feedback is required.**  All participants are expected to 
+  participate in weekly meetings with their course instructor / mentor. Direct feedback should be 
+  provided on an immediate and ongoing basis. In addition, all participants will need to complete 
+  and document an [exit interview](#exit-interviews) with their instructor.  
 
 ## Additional Information
 
