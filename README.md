@@ -34,6 +34,15 @@ by the Computer Science Department, University of Georgia, and the
 University System of Georgia apply in addition to the policies described
 in this document.
 
+All participants must have taken the course they're assigned to at the University of Georgia and
+received a satisfactory grade. As such, they will gain an invaluable alternative and applied 
+perspective into the course to which they’re assigned. Compared to GTAs, undergraduate assistants
+tend to have a closer peer relationship with other undergraduate students. As such, measures will 
+be taken to directly address potential conflicts of interest, including, but not limited to, requiring 
+the same conflict of interest training that is required for all UGA employees and anonymizing assignments 
+so that they do not contain easily identifiable personal information. These practices have been 
+approved for the CS department's use of UTAs in the past.
+
 ### Peer Learning Assistant (PLA)
 
 PLA participants attend lectures and labs in participating
@@ -86,14 +95,7 @@ CSUA Program Director if they have any questions regarding any of these requirem
 
 ## Additional Information
 
-All participants must have taken the course they're assigned to at the University of Georgia and
-received a satisfactory grade. As such, they will gain an invaluable alternative and applied 
-perspective into the course to which they’re assigned. Compared to GTAs, undergraduate assistants
-tend to have a closer peer relationship with other undergraduate students. As such, measures will 
-be taken to directly address potential conflicts of interest, including, but not limited to, requiring 
-the same conflict of interest training that is required for all UGA employees and anonymizing assignments 
-so that they do not contain easily identifiable personal information. These practices have been 
-approved for the CS department’s use of UTAs in the past.
+
 
 ## Links
 
