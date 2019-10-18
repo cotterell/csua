@@ -6,6 +6,8 @@ Written by Michael E. Cotterell (mepcott@uga.edu), Program Director, CSUA
 
 * [Introduction](#introduction)
 * [Program Tracks](#program-tracks)
+  * [Peer Learning Assistant (PLA)](#peer-learning-assistant-pla)
+  * [Undergraduate Teaching Assistant (UTA)](a#undergraduate-teaching-assistant-uta)
 * [Additional Information](#additional-information)
 * [Links](#links)
 
@@ -19,7 +21,14 @@ while also furthering their own mastery of related material.
 
 ## Program Tracks
 
-The CSUA program has two tracks:
+The CSUA program has two tracks for participants, 
+[Peer Learning Assistant (PLA)](#peer-learning-assistant-pla) and
+[Undergraduate Teaching Assistant (UTA)](a#undergraduate-teaching-assistant-uta).
+Regardless of track, participants are hired as undergraduate student works.
+Therefore, any rules, regulations, and policies for student workers imposed
+by the Computer Science Department, University of Georgia, and the
+University System of Georgia apply in addition to the policies described
+in this document.
 
 ### Peer Learning Assistant (PLA)
 
