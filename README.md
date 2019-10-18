@@ -93,6 +93,13 @@ CSUA Program Director if they have any questions regarding any of these requirem
   Additionally, all participants will need to complete and document an 
   [exit interview](#exit-interviews) with their instructor.
 
+## Exit Interviews
+
+## Getting ELR Credit
+
+- [x] Test
+- [ ] todo
+- [ ] todo
 ## Additional Information
 
 
