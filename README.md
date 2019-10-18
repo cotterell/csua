@@ -19,6 +19,10 @@ knowledge and abilities with their peers. Participants provide valuable knowledg
 and learning strategies for both the students and the instructional team they work with, 
 while also furthering their own mastery of related material. 
 
+This course/program fulfills the Experiential Learning Requirements for University of Georgia
+students with majors in Franklin College. To see if it satisfies the requirement for non-Franklin 
+students, check http://engage.uga.edu and search under the Experiential Learning tab.
+
 ## Program Tracks
 
 The CSUA program has two tracks for participants, 
