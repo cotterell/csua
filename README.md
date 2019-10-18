@@ -52,7 +52,8 @@ would benefit from additional reinforcement.
 * **Regular, documented evaluation and feedback is required.**  All participants are expected to 
   participate in weekly meetings with their course instructor / mentor. Direct feedback should be 
   provided on an immediate and ongoing basis. Specifically, instructors should directly observe 
-  in-class PLA activities and regularly provide feedback on what is and what is not working well. 
+  in-class PLA activities and regularly provide feedback on what is and what is not working well.
+  Participants are required to summarize their work experience each week to the course instructor. 
   Additionally, all participants will need to complete and document an 
   [exit interview](#exit-interviews) with their instructor. 
    
@@ -74,7 +75,8 @@ evaluation tools for assignments.
 * **Regular, documented evaluation and feedback is required.**  All participants are expected to 
   participate in weekly meetings with their course instructor / mentor. Direct feedback should be 
   provided on an immediate and ongoing basis. Specifically, instructors or instructor-appointed
-  GTAs should directly observe assessment-related UTA activities. 
+  GTAs should directly observe assessment-related UTA activities. Participants are required to 
+  summarize their work experience each week to the course instructor. 
   Additionally, all participants will need to complete and document an 
   [exit interview](#exit-interviews) with their instructor.
 
