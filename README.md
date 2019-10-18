@@ -67,7 +67,7 @@ evaluation tools for assignments.
   when an autograder script is utilized). Instructors are encouraged to contact the CSUA
   Program Director if they have any questions regarding this requirement.
   
-  * **Regular, documented evaluation and feedback is required.**  All participants are expected to 
+* **Regular, documented evaluation and feedback is required.**  All participants are expected to 
   participate in weekly meetings with their course instructor / mentor. Direct feedback should be 
   provided on an immediate and ongoing basis. Specifically, instructors or instructor-appointed
   GTAs should directly observe assessment-related UTA activities. 
