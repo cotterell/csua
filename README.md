@@ -106,7 +106,7 @@ CSUA Program Director if they have any questions regarding any of these requirem
 
 ## Links
 
-* [Engage Georgia: Experiential Learning: CSUA Progeam](https://givepul.se/817zl2)
+* [Engage Georgia: Experiential Learning: CSUA Program](https://givepul.se/817zl2)
 
 <hr/>
 
