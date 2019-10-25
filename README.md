@@ -93,6 +93,15 @@ CSUA Program Director if they have any questions regarding any of these requirem
   Additionally, all participants will need to complete and document an 
   [exit interview](#exit-interviews) with their instructor.
 
+## Weekly Summaries
+
+While instructors and undergraduate assistants likely talk to each other on a regular basis, its
+important to keep a record of what happens each week. To accomodate this, partipants will be enrolled
+in an eLC course where they can submit a weekly summary of their experience. The specific
+requirements for this summary will be posted on the eLC course. Participants and instructors
+should not see this an extra activity. Instead, each summary should be seen as opportunity to reflect
+on what has and has not worked over the past week. 
+
 ## Exit Interviews
 
 ## Getting ELR Credit
@@ -100,6 +109,7 @@ CSUA Program Director if they have any questions regarding any of these requirem
 - [x] Test
 - [ ] todo
 - [ ] todo
+
 ## Additional Information
 
 
