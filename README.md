@@ -95,7 +95,7 @@ CSUA Program Director if they have any questions regarding any of these requirem
 
 ## Weekly Summaries
 
-While instructors and undergraduate assistants likely talk to each other on a regular basis, its
+While instructors and undergraduate assistants likely talk to each other on a regular basis, it's
 important to keep a record of what happens each week. To accomodate this, partipants will be enrolled
 in an eLC course where they can submit a weekly summary of their experience. The specific
 requirements for this summary will be posted on the eLC course. Participants and instructors
