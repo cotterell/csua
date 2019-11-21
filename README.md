@@ -104,15 +104,12 @@ on what has and has not worked over the past week.
 
 ## Exit Interviews
 
-## Getting ELR Credit
-
-- [x] Test
-- [ ] todo
-- [ ] todo
-
-## Additional Information
-
-
+**Instructions for Supervisors:** For each undergraduate assistant that you supervise, 
+you will need to meet with that student and conduct an exit interview before the student's
+last day of work using a survey tool. If you supervise a student that works more closely 
+with another instructor, then you may delegate the exit interview to that instructor; however, 
+you are still responsible for making sure the exit interview is conducted. The survey tool
+and deadlines will be emailed to supervisors near the end of each semester.
 
 ## Links
 
